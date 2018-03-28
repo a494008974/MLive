@@ -61,7 +61,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements MainCon
             public void onItemSelected(int position, Object o) {
                 Log.d("aaaaaa","onItemSelected position = " + position);
             }
-
+//zhouyajun
             @Override
             public void onItemClick(int position, Object o) {
                 Log.d("aaaaaa","onItemClick position = " + position);
@@ -152,9 +152,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements MainCon
 
     @Override
     public void loadListData(List<ListBean> listBeans) {
-//        for (ListBean listBean : listBeans){
-//            Log.d("list",listBean.getName());
-//        }
+
     }
 
     static class DelayRunnable implements Runnable{
