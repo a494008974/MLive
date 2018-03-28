@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="channelview_normal" type="drawable">#e0022bb1</item>
+
+    <item name="listview_focused" type="drawable">#060606</item>
+    <item name="listview_normal" type="drawable">#32000000</item>
+
+    <item name="channelview_focused" type="drawable">#3655a4</item>
+    <item name="menu_one_normal" type="drawable">#575dbc</item>
+    <item name="menu_two_normal" type="drawable">#587bcc</item>
+    <item name="menu_three_normal" type="drawable">#575dbc</item>
+</resources>
