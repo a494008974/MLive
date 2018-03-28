@@ -75,5 +75,5 @@ dependencies {
     implementation rootProject.ext.dependencies["gif-drawable"]
     implementation rootProject.ext.dependencies["BaseAdapterHelper"]
     implementation rootProject.ext.dependencies["PhotoView"]
-
+    implementation project(':library')
 }
